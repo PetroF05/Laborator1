@@ -1,0 +1,54 @@
+<company>
+    <department name="Development" depId="1">
+        <employee empId="001">
+            <lastName>Cornelis</lastName>
+            <firstName>Willem</firstName>
+            <birthDate>01.01.1990</birthDate>
+            <position>Department Manager</position>
+            <skills>
+                <skill>Communication</skill>
+                <skill>Java</skill>
+            </skills>
+            <managerId>0</managerId>
+        </employee>
+        <employee empId="002">
+            <lastName>Adelung</lastName>
+            <firstName>Friedrich Von</firstName>
+            <birthDate>04.12.1988</birthDate>
+            <position>Developer</position>
+            <skills>
+                <skill>C#</skill>
+                <skill>Html</skill>
+                <skill>C++</skill>
+            </skills>
+            <managerId>001</managerId>
+        </employee>
+    </department>
+
+    <department name="Accounting" depId="2">
+        <employee empId="003">
+            <lastName>Bernhart</lastName>
+            <firstName>Johann</firstName>
+            <birthDate>01.09.1980</birthDate>
+            <position>Department Manager</position>
+            <skills>
+                <skill>Communication</skill>
+                <skill>Java</skill>
+                <skill>Management</skill>
+            </skills>
+            <managerId>0</managerId>
+        </employee>
+        <employee empId="004">
+            <lastName>Balabin</lastName>
+            <firstName>Victor</firstName>
+            <birthDate>01.01.1995</birthDate>
+            <position>Database administrator</position>
+            <skills>
+                <skill>SQL</skill>
+                <skill>JAVA</skill>
+                <skill>PHP</skill>
+            </skills>
+            <managerId>003</managerId>
+        </employee>
+    </department>
+</company>

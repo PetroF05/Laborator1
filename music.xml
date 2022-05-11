@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<music>
+    <types-of-music>
+        <type>Ambient</type>
+        <type>Baroque/Classical</type>
+        <type>Classic Rock</type>
+        <type>Dubstep</type>
+        <type>Heavy Metal</type>
+        <type>Jazz</type>
+        <type>Oldies</type>
+        <type>Polka</type>
+        <type>Pop</type>
+        <type>Punk</type>
+        <type>Reggae</type>
+        <type>Rock</type>
+        <type>Smooth Jazz</type>
+    </types-of-music>
+    <song-structure>
+        <layer name="Intro">Attract listener's attention and introduce them to the song</layer>
+        <layer name="Verse">Tell the story, give the details</layer>
+        <layer name="Pre-Chorus">Build anticipation for the chorus</layer>
+        <layer name="Chorus">Main theme or message</layer>
+        <layer name="Bridge">Create a break away from or variation to rest of song</layer>
+        <layer name="Outro">Conclusion. End of the song with variation or fade out</layer>
+    </song-structure>
+</music>
